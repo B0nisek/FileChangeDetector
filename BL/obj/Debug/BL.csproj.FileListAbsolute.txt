@@ -1,0 +1,12 @@
+C:\Users\bony\Documents\Visual Studio 2015\Projects\FileChangeDetector\FileChangeDetector\BL\bin\Debug\BL.dll
+C:\Users\bony\Documents\Visual Studio 2015\Projects\FileChangeDetector\FileChangeDetector\BL\bin\Debug\BL.pdb
+C:\Users\bony\Documents\Visual Studio 2015\Projects\FileChangeDetector\FileChangeDetector\BL\bin\Debug\ByteSize.dll
+C:\Users\bony\Documents\Visual Studio 2015\Projects\FileChangeDetector\FileChangeDetector\BL\bin\Debug\System.ValueTuple.dll
+C:\Users\bony\Documents\Visual Studio 2015\Projects\FileChangeDetector\FileChangeDetector\BL\bin\Debug\System.ValueTuple.xml
+C:\Users\bony\Documents\Visual Studio 2015\Projects\FileChangeDetector\FileChangeDetector\BL\obj\Debug\BL.dll
+C:\Users\bony\Documents\Visual Studio 2015\Projects\FileChangeDetector\FileChangeDetector\BL\obj\Debug\BL.pdb
+C:\Users\bony\Documents\Visual Studio 2015\Projects\huehue\BL\bin\Debug\BL.dll
+C:\Users\bony\Documents\Visual Studio 2015\Projects\huehue\BL\bin\Debug\BL.pdb
+C:\Users\bony\Documents\Visual Studio 2015\Projects\huehue\BL\bin\Debug\ByteSize.dll
+C:\Users\bony\Documents\Visual Studio 2015\Projects\huehue\BL\obj\Debug\BL.dll
+C:\Users\bony\Documents\Visual Studio 2015\Projects\huehue\BL\obj\Debug\BL.pdb
